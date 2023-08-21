@@ -59,7 +59,3 @@ This project has versatile applications:
 
 ![Screenshot 2](/screenshots/screenshot2.png)
 *Description of Screenshot 2*
-
----
-
-Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and enhancements are greatly appreciated!
