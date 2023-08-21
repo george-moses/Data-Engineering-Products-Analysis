@@ -28,14 +28,14 @@ The main goal of this project is to collect, clean, and analyze reviews of promi
 
 The project's architecture comprises several key stages:
 
-1. **Web Scraping:** Bright Data extracts reviews from diverse sources.
+1. **Web Scraping:** [Bright Data](https://brightdata.com/?kw=bright%20data&cpn=388478960&utm_matchtype=e&cq_src=google_ads&cq_cmp=388478960&cq_term=bright%20data&cq_plac=&cq_net=o&cq_plt=gp&utm_matchtype=e&utm_term=bright%20data&utm_campaign=brand_brightdata-all_geos-search_rlsa_mql-kw_en-desktop&utm_source=bing&utm_medium=ppc&utm_content=bright-data-proxy&msclkid=b6fa2fe95deb1211269d4b0a8245b9b8) extracts reviews from diverse sources.
 2. **Data Storage:** Extracted data is stored in JSON format within an Amazon S3 bucket.
 3. **Data Processing:** Snowflake is used to clean and process the data, generating structured tables.
 4. **Visualization:** Tableau is connected to Snowflake to produce informative dashboards.
 
 ## Key Steps
 
-1. Employed Bright Data for web scraping of data engineering products reviews.
+1. Employed [Bright Data](https://brightdata.com/?kw=bright%20data&cpn=388478960&utm_matchtype=e&cq_src=google_ads&cq_cmp=388478960&cq_term=bright%20data&cq_plac=&cq_net=o&cq_plt=gp&utm_matchtype=e&utm_term=bright%20data&utm_campaign=brand_brightdata-all_geos-search_rlsa_mql-kw_en-desktop&utm_source=bing&utm_medium=ppc&utm_content=bright-data-proxy&msclkid=b6fa2fe95deb1211269d4b0a8245b9b8) for web scraping of data engineering products reviews.
 2. Stored review data in JSON format within an Amazon S3 bucket.
 3. Cleaned and processed data using Snowflake, employing Snowflake SQL.
 4. Established Tableau connection to Snowflake, facilitating dashboard creation.
