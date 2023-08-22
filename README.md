@@ -55,9 +55,9 @@ This project has versatile applications:
 
 ## Screenshots
 
-### Amazon S3
+### Amazon S3 Bucket with Raw Data
 [![s3-bucket.png](https://i.postimg.cc/YqxnyswX/s3-bucket.png)](https://postimg.cc/VddWJ4vM)
 
-### Tableau
+### Tableau Dashboard
 [Vendor Dashboard](https://prod-useast-b.online.tableau.com/#/site/snowflakeproj/views/Project2/VendorDashboard?:iid=1)
 [![tableau.png](https://i.postimg.cc/Fz4pTjC5/tableau.png)](https://postimg.cc/zbxTBR10)
