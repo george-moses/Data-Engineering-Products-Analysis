@@ -19,25 +19,26 @@ The main goal of this project is to collect, clean, and analyze reviews of promi
 
 ## Technologies Used
 
-- **Web Scraping:** [Bright Data](https://brightdata.com/?kw=bright%20data&cpn=388478960&utm_matchtype=e&cq_src=google_ads&cq_cmp=388478960&cq_term=bright%20data&cq_plac=&cq_net=o&cq_plt=gp&utm_matchtype=e&utm_term=bright%20data&utm_campaign=brand_brightdata-all_geos-search_rlsa_mql-kw_en-desktop&utm_source=bing&utm_medium=ppc&utm_content=bright-data-proxy&msclkid=b6fa2fe95deb1211269d4b0a8245b9b8) was employed for efficient extraction of reviews from [g2.com](https://www.g2.com/).
-- **Data Storage:** Amazon S3 buckets were utilized to store the collected review data in JSON format.
-- **Data Processing:** Snowflake was used to clean and process the data, transforming it into structured tables for analysis.
-- **Visualization:** Tableau integration facilitated the creation of interactive dashboards to present key insights.
+- **Bright Data:** Bright Data was employed for efficient web scraping of reviews from [g2.com](https://www.g2.com/).
+- **Amazon S3:** An Amazon S3 bucket was utilized as a data storage solution. The collected review data was stored in JSON format within the bucket, ensuring secure and scalable data storage.
+- **Snowflake:** Snowflake was used to connect to the Amazon S3 bucket, retrieve the extracted review data, and leverage SQL scripts for comprehensive data transformation and manipulation, and the creation of structured tables for analysis.
+- **Tableau:** Tableau integration was employed to visualize the project's findings. It allowed the creation of interactive and informative dashboards that presented key insights from the cleaned and processed data stored in Snowflake.
+- **SQL:** SQL (Structured Query Language) scripts were used in conjunction with Snowflake for data transformation and manipulation. SQL enabled the project to efficiently process the extracted review data and generate structured tables for analysis.
 
 ## Project Architecture
 
 The project's architecture comprises several key stages:
 
-1. **Web Scraping:** [Bright Data](https://brightdata.com/?kw=bright%20data&cpn=388478960&utm_matchtype=e&cq_src=google_ads&cq_cmp=388478960&cq_term=bright%20data&cq_plac=&cq_net=o&cq_plt=gp&utm_matchtype=e&utm_term=bright%20data&utm_campaign=brand_brightdata-all_geos-search_rlsa_mql-kw_en-desktop&utm_source=bing&utm_medium=ppc&utm_content=bright-data-proxy&msclkid=b6fa2fe95deb1211269d4b0a8245b9b8) extracts reviews from diverse sources.
-2. **Data Storage:** Extracted data is stored in JSON format within an Amazon S3 bucket.
-3. **Data Processing:** Snowflake is used to clean and process the data, generating structured tables.
-4. **Visualization:** Tableau is connected to Snowflake to produce informative dashboards.
+- Bright Data: Extracts reviews from diverse sources.
+- S3 Bucket: Extracted data is stored in JSON format within an Amazon S3 bucket.
+- Snowflake: Connects to the S3 bucket, retrieving the extracted data, and utilizes SQL scripts for data transformation and manipulation to generate structured tables.
+- Tableau: Connected to Snowflake, facilitating the creation of interactive dashboards to present key insights.
 
 ## Key Steps
 
-1. Employed [Bright Data](https://brightdata.com/?kw=bright%20data&cpn=388478960&utm_matchtype=e&cq_src=google_ads&cq_cmp=388478960&cq_term=bright%20data&cq_plac=&cq_net=o&cq_plt=gp&utm_matchtype=e&utm_term=bright%20data&utm_campaign=brand_brightdata-all_geos-search_rlsa_mql-kw_en-desktop&utm_source=bing&utm_medium=ppc&utm_content=bright-data-proxy&msclkid=b6fa2fe95deb1211269d4b0a8245b9b8) for web scraping of data engineering products reviews.
+1. Employed Bright Data for web scraping of data engineering product reviews.
 2. Stored review data in JSON format within an Amazon S3 bucket.
-3. Cleaned and processed data using Snowflake, employing Snowflake SQL.
+3. Used Snowflake to connect to the S3 bucket, retrieve the extracted data, and employed SQL scripts for data transformation and manipulation.
 4. Established Tableau connection to Snowflake, facilitating dashboard creation.
 
 ## Impact
