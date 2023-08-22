@@ -19,7 +19,7 @@ The main goal of this project is to collect, clean, and analyze reviews of promi
 
 ## Technologies Used
 
-- [Bright Data](https://brightdata.com/?kw=bright%20data&cpn=388478960&utm_matchtype=e&cq_src=google_ads&cq_cmp=388478960&cq_term=bright%20data&cq_plac=&cq_net=o&cq_plt=gp&utm_matchtype=e&utm_term=bright%20data&utm_campaign=brand_brightdata-all_geos-search_rlsa_mql-kw_en-desktop&utm_source=bing&utm_medium=ppc&utm_content=bright-data-proxy&msclkid=b6fa2fe95deb1211269d4b0a8245b9b8) was employed for efficient .
+- [Bright Data](https://brightdata.com/?kw=bright%20data&cpn=388478960&utm_matchtype=e&cq_src=google_ads&cq_cmp=388478960&cq_term=bright%20data&cq_plac=&cq_net=o&cq_plt=gp&utm_matchtype=e&utm_term=bright%20data&utm_campaign=brand_brightdata-all_geos-search_rlsa_mql-kw_en-desktop&utm_source=bing&utm_medium=ppc&utm_content=bright-data-proxy&msclkid=b6fa2fe95deb1211269d4b0a8245b9b8)
 - Amazon S3
 - Snowflake
 - Tableau
