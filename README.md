@@ -56,11 +56,12 @@ This project has versatile applications:
 ## Screenshots
 
 ### Amazon S3 Bucket with Raw Data
-[![s3-bucket.png](https://i.postimg.cc/YqxnyswX/s3-bucket.png)](https://postimg.cc/VddWJ4vM)
+![image](https://github.com/george-moses/Data-Engineering-Products-Analysis/assets/107324220/a09353c7-1dd2-4a21-a401-44e50e7fecc3)
 
 ### Snowflake Tables with Transformed Data
 ![image](https://github.com/george-moses/Data-Engineering-Products-Analysis/assets/107324220/393e3627-db1f-448c-9728-929269ecab9e)
 
 ### Tableau Dashboard
-[Vendor Dashboard](https://prod-useast-b.online.tableau.com/t/snowflakeproj/views/Project2/VendorDashboard)
-[![tableau.png](https://i.postimg.cc/Fz4pTjC5/tableau.png)](https://postimg.cc/zbxTBR10)
+![image](https://github.com/george-moses/Data-Engineering-Products-Analysis/assets/107324220/e9d60da5-89a2-46db-8954-f7855d6a980c)
+
+
