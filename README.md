@@ -19,7 +19,7 @@ The main goal of this project is to collect, clean, and analyze reviews of promi
 
 ## Technologies Used
 
-- **Web Scraping:** [Bright Data](https://brightdata.com/?kw=bright%20data&cpn=388478960&utm_matchtype=e&cq_src=google_ads&cq_cmp=388478960&cq_term=bright%20data&cq_plac=&cq_net=o&cq_plt=gp&utm_matchtype=e&utm_term=bright%20data&utm_campaign=brand_brightdata-all_geos-search_rlsa_mql-kw_en-desktop&utm_source=bing&utm_medium=ppc&utm_content=bright-data-proxy&msclkid=b6fa2fe95deb1211269d4b0a8245b9b8) was employed for efficient extraction of reviews from various online sources.
+- **Web Scraping:** [Bright Data](https://brightdata.com/?kw=bright%20data&cpn=388478960&utm_matchtype=e&cq_src=google_ads&cq_cmp=388478960&cq_term=bright%20data&cq_plac=&cq_net=o&cq_plt=gp&utm_matchtype=e&utm_term=bright%20data&utm_campaign=brand_brightdata-all_geos-search_rlsa_mql-kw_en-desktop&utm_source=bing&utm_medium=ppc&utm_content=bright-data-proxy&msclkid=b6fa2fe95deb1211269d4b0a8245b9b8) was employed for efficient extraction of reviews from [g2.com](https://www.g2.com/).
 - **Data Storage:** Amazon S3 buckets were utilized to store the collected review data in JSON format.
 - **Data Processing:** Snowflake was used to clean and process the data, transforming it into structured tables for analysis.
 - **Visualization:** Tableau integration facilitated the creation of interactive dashboards to present key insights.
