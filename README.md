@@ -27,7 +27,7 @@ The main goal of this project is to collect, clean, and analyze reviews of promi
 
 ## Project Architecture
 
-The project's architecture comprises several key stages:
+The project architecture comprises the following components:
 
 - **Bright Data:** web scrapes data engineering products reviews data from [g2.com](https://www.g2.com/).
 - **S3 Bucket:** Extracted data is stored in JSON format within an Amazon S3 bucket.
