@@ -62,6 +62,7 @@ This project has versatile applications:
 ![image](https://github.com/george-moses/Data-Engineering-Products-Analysis/assets/107324220/393e3627-db1f-448c-9728-929269ecab9e)
 
 ### Tableau Dashboard
+**[Vendor Dashboard](https://prod-useast-b.online.tableau.com/t/snowflakeproj/views/Project2/VendorDashboard)**
 ![image](https://github.com/george-moses/Data-Engineering-Products-Analysis/assets/107324220/e9d60da5-89a2-46db-8954-f7855d6a980c)
 
 
