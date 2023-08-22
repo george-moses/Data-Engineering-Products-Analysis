@@ -59,5 +59,5 @@ This project has versatile applications:
 [![s3-bucket.png](https://i.postimg.cc/YqxnyswX/s3-bucket.png)](https://postimg.cc/VddWJ4vM)
 
 ### Tableau Dashboard
-[Vendor Dashboard](https://prod-useast-b.online.tableau.com/#/site/snowflakeproj/views/Project2/VendorDashboard?:iid=1)
+[Vendor Dashboard](https://prod-useast-b.online.tableau.com/t/snowflakeproj/views/Project2/VendorDashboard)
 [![tableau.png](https://i.postimg.cc/Fz4pTjC5/tableau.png)](https://postimg.cc/zbxTBR10)
