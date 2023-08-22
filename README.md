@@ -54,8 +54,9 @@ This project has versatile applications:
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-*Description of Screenshot 1*
+### Amazon S3
+[![s3-bucket.png](https://i.postimg.cc/YqxnyswX/s3-bucket.png)](https://postimg.cc/VddWJ4vM)
 
-![Screenshot 2](/screenshots/screenshot2.png)
-*Description of Screenshot 2*
+### Tableau
+[Vendor Dashboard](https://prod-useast-b.online.tableau.com/#/site/snowflakeproj/views/Project2/VendorDashboard?:iid=1)
+[![tableau.png](https://i.postimg.cc/Fz4pTjC5/tableau.png)](https://postimg.cc/zbxTBR10)
