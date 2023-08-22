@@ -29,10 +29,10 @@ The main goal of this project is to collect, clean, and analyze reviews of promi
 
 The project's architecture comprises several key stages:
 
-- Bright Data: Extracts reviews from diverse sources.
-- S3 Bucket: Extracted data is stored in JSON format within an Amazon S3 bucket.
-- Snowflake: Connects to the S3 bucket, retrieving the extracted data, and utilizes SQL scripts for data transformation and manipulation to generate structured tables.
-- Tableau: Connected to Snowflake, facilitating the creation of interactive dashboards to present key insights.
+- **Bright Data:** Extracts reviews from diverse sources.
+- **S3 Bucket:** Extracted data is stored in JSON format within an Amazon S3 bucket.
+- **Snowflake:** Connects to the S3 bucket, retrieving the extracted data, and utilizes SQL scripts for data transformation and manipulation to generate structured tables.
+- **Tableau:** Connected to Snowflake, facilitating the creation of interactive dashboards to present key insights.
 
 ## Key Steps
 
